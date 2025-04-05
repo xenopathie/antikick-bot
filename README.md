@@ -16,12 +16,12 @@ Système d'administration : Vous pouvez gérer les commandes et ajuster les para
 # prérequis 
 
 Avant d'installer le bot, assurez-vous d'avoir installé les éléments suivants :
+    
+Python 3.x  : La dernière version stable de Python.
+    
+Télécharger Python
 
-    Python 3.x  : La dernière version stable de Python.
-
-    Télécharger Python
-
-    Flask : Un micro-framework pour Python qui permet de créer et d'héberger facilement des applications web.
+Flask : Un micro-framework pour Python qui permet de créer et d'héberger facilement des applications web.
 
 # Installation :
 
